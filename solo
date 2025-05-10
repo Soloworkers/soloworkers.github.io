@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Soloworkers | Freelance Portfolio</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f9f9f9;
+      color: #333;
+    }
+    header {
+      background: #007acc;
+      color: white;
+      padding: 40px 20px;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5em;
+    }
+    section {
+      max-width: 900px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+    h2 {
+      color: #007acc;
+      margin-bottom: 10px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    footer {
+      background: #333;
+      color: white;
+      text-align: center;
+      padding: 20px 10px;
+      margin-top: 40px;
+    }
+    .contact a {
+      color: #007acc;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Soloworkers</h1>
+    <p>Your Trusted Freelance Partner</p>
+  </header>
+
+  <section>
+    <h2>About Us</h2>
+    <p>Soloworkers is a top-rated freelance agency committed to delivering high-quality, on-time, and customized solutions to clients around the globe. With years of experience and a team of versatile professionals, we specialize in providing creative, technical, and administrative support across various industries.</p>
+  </section>
+
+  <section>
+    <h2>Services Offered</h2>
+    <ul>
+      <li><strong>Web Development & Design:</strong> Front-End, WordPress, Shopify, Custom Websites</li>
+      <li><strong>Graphic Design & Branding:</strong> Logos, Business Cards, Social Media Kits, Brochures</li>
+      <li><strong>Content Writing & Copywriting:</strong> Blogs, Website Content, Product Descriptions</li>
+      <li><strong>Digital Marketing:</strong> SEO, Google Ads, Social Media Marketing</li>
+      <li><strong>Virtual Assistance:</strong> Data Entry, Calendar Management, CRM Tools</li>
+      <li><strong>Video Editing & Animation:</strong> Explainer Videos, Reels, YouTube Editing</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Tools & Technologies</h2>
+    <p>Adobe Creative Suite, WordPress, Shopify, Python, HTML/CSS, JavaScript, Canva, Google Workspace, SEMrush, Ahrefs, Trello, Asana.</p>
+  </section>
+
+  <section>
+    <h2>Featured Projects</h2>
+    <ul>
+      <li><strong>E-Commerce Website:</strong> Redesigned a Shopify store, boosting conversions by 30%.</li>
+      <li><strong>Brand Kit Design:</strong> Developed a full visual identity for a startup brand.</li>
+      <li><strong>SEO Campaign:</strong> Increased blog traffic by 200% with strategic keyword research.</li>
+      <li><strong>Animated Explainer Video:</strong> Produced a 90-second fintech animation that enhanced user onboarding.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Client Testimonials</h2>
+    <blockquote>“Soloworkers delivered beyond expectations. Fast communication and top-tier quality!” – James H., USA</blockquote>
+    <blockquote>“I’ve worked with many freelancers, but this team truly stands out. Highly recommended.” – Aisha K., UK</blockquote>
+  </section>
+
+  <section class="contact">
+    <h2>Contact & Hire</h2>
+    <p>Email: <a href="mailto:solo.worke@gmail.com">solo.worke@gmail.com</a></p>
+    <p>Freelancer Profile: <a href="https://www.freelancer.com/u/soloworkers" target="_blank">View on Freelancer.com</a></p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Soloworkers. All Rights Reserved.</p>
+  </footer>
+
+</body>
+</html>
